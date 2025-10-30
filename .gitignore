@@ -1,7 +1,7 @@
-﻿# Virtual env
+﻿# Ignore virtual environment
 venv/
 
-# Python caches
+# Ignore caches and temp files
 __pycache__/
 *.pyc
 .ipynb_checkpoints/
